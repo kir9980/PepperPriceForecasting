@@ -39,7 +39,7 @@ st.markdown("""
     and get forecasts with performance metrics.
     """)
 
-st.markdown('<div class="developer-credit">Developed by Kiran Basavannappagowda - AI-07 batch, M.Tech in AI, REVA University (RACE)</div>', unsafe_allow_html=True)
+st.markdown('<div class="developer-credit">Developed by Kiran Basavannappagowda - M.Tech in AI, REVA University (RACE)</div>', unsafe_allow_html=True)
 
 with st.sidebar:
     st.header("Input Parameters")
